@@ -1,0 +1,11 @@
+.git
+.gitignore
+.github
+.history
+node_modules
+*.md
+.vscode
+.DS_Store
+Thumbs.db
+image.png
+README.md

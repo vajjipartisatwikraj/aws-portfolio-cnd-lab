@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Frontend Development",
+    "items": ["HTML5", "CSS3", "JavaScript", "React.js", "Vue.js", "TypeScript", "Tailwind CSS"]
+  },
+  {
+    "category": "Backend Development",
+    "items": ["Node.js", "Express.js", "Python", "Django", "Flask", "PHP", "REST APIs"]
+  },
+  {
+    "category": "Database & Cloud",
+    "items": ["MongoDB", "MySQL", "PostgreSQL", "AWS", "Azure", "Docker", "Kubernetes"]
+  },
+  {
+    "category": "Tools & Others",
+    "items": ["Git", "VS Code", "Figma", "Postman", "Jenkins", "Linux", "Agile"]
+  }
+]

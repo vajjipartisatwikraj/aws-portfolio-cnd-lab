@@ -1,0 +1,48 @@
+{
+  "personalInfo": {
+    "name": "Satwik Raj Vajjiparti",
+    "location": "Hyderabad, India",
+    "phone": "+91 9876543210",
+    "email": "satwik@example.com",
+    "profileImage": "image.png"
+  },
+  "education": [
+    {
+      "year": "2021 - 2025",
+      "degree": "Bachelor of Technology in Computer Science",
+      "school": "XYZ University, Hyderabad",
+      "description": "Focused on Software Engineering, Data Structures, and Cloud Computing. CGPA: 8.5/10"
+    },
+    {
+      "year": "2019 - 2021",
+      "degree": "Intermediate (12th Grade)",
+      "school": "ABC Junior College",
+      "description": "Mathematics, Physics, Chemistry. Percentage: 95%"
+    },
+    {
+      "year": "2018 - 2019",
+      "degree": "Secondary School (10th Grade)",
+      "school": "DEF High School",
+      "description": "All subjects with distinction. CGPA: 9.8/10"
+    }
+  ],
+  "interests": [
+    { "title": "Web Development", "icon": "fas fa-code" },
+    { "title": "Cloud Computing", "icon": "fas fa-cloud" },
+    { "title": "Machine Learning", "icon": "fas fa-brain" },
+    { "title": "Open Source", "icon": "fas fa-unlock" },
+    { "title": "Photography", "icon": "fas fa-camera" },
+    { "title": "Gaming", "icon": "fas fa-gamepad" },
+    { "title": "Music", "icon": "fas fa-music" },
+    { "title": "Travel", "icon": "fas fa-plane" }
+  ],
+  "contact": {
+    "email": "satwik@example.com",
+    "phone": "+91 9876543210",
+    "location": "Hyderabad, India",
+    "linkedin": "https://linkedin.com/in/satwikraj",
+    "github": "https://github.com/satwikraj",
+    "twitter": "https://twitter.com/satwikraj",
+    "instagram": "https://instagram.com/satwikraj"
+  }
+}

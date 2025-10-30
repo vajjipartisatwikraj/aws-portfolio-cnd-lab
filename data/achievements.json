@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Google Developer Group - General Director",
+    "description": "Leading a community of 500+ developers, organizing events, workshops, and hackathons to promote technology and innovation.",
+    "icon": "fas fa-crown"
+  },
+  {
+    "title": "Hackathon Winner - TechFest 2024",
+    "description": "First place in the national level hackathon with a team of 4 members. Built an AI-powered solution for smart city management.",
+    "icon": "fas fa-trophy"
+  },
+  {
+    "title": "Open Source Contributor",
+    "description": "Contributed to 15+ open source projects on GitHub with over 500 commits. Maintained projects with 1000+ stars.",
+    "icon": "fas fa-code"
+  },
+  {
+    "title": "Community Event Organizer",
+    "description": "Successfully organized 25+ tech events including bootcamps, workshops, and seminars with 500+ total participants.",
+    "icon": "fas fa-bullseye"
+  },
+  {
+    "title": "Technical Speaker",
+    "description": "Delivered talks on modern web development and cloud technologies at various conferences and meetups.",
+    "icon": "fas fa-microphone"
+  },
+  {
+    "title": "Mentor & Trainer",
+    "description": "Mentored 50+ students in web development and helped them secure internships and full-time positions.",
+    "icon": "fas fa-chalkboard-teacher"
+  }
+]

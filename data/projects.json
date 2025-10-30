@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Orbit - Social Platform",
+    "description": "A comprehensive social platform connecting students with communities to share ideas, join events, and find opportunities. Built with React, Node.js, and MongoDB.",
+    "image": "https://via.placeholder.com/400x200/ff9900/ffffff?text=Orbit",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "technologies": ["React", "Node.js", "MongoDB", "Socket.io", "AWS"],
+    "demoLink": "https://orbit-demo.com",
+    "codeLink": "https://github.com/satwik/orbit"
+  },
+  {
+    "title": "Algo Labs - Lab Management",
+    "description": "A modular lab scheduling application for teachers and students to manage lab participation efficiently. Features real-time updates and automated scheduling.",
+    "image": "https://via.placeholder.com/400x200/232f3e/ffffff?text=AlgoLabs",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "technologies": ["Vue.js", "Express.js", "PostgreSQL", "Docker"],
+    "demoLink": "https://algolabs-demo.com",
+    "codeLink": "https://github.com/satwik/algolabs"
+  },
+  {
+    "title": "Code Hunter - Contest Platform",
+    "description": "An online coding contest platform with admin panels, real-time leaderboards, and automated problem test cases. Supports multiple programming languages.",
+    "image": "https://via.placeholder.com/400x200/ff9900/232f3e?text=CodeHunter",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "technologies": ["Python", "Django", "Redis", "WebSocket", "MySQL"],
+    "demoLink": "https://codehunter-demo.com",
+    "codeLink": "https://github.com/satwik/codehunter"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A responsive portfolio website showcasing my projects and skills. Built with modern web technologies and optimized for performance.",
+    "image": "https://via.placeholder.com/400x200/232f3e/ff9900?text=Portfolio",
+    "video": null,
+    "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+    "demoLink": "#",
+    "codeLink": "https://github.com/satwik/portfolio"
+  },
+  {
+    "title": "Cloud Infrastructure Monitor",
+    "description": "A comprehensive AWS cloud monitoring dashboard with real-time metrics, alerts, and cost optimization recommendations.",
+    "image": "https://via.placeholder.com/400x200/ff9900/232f3e?text=CloudMonitor",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "technologies": ["AWS", "CloudWatch", "Lambda", "React", "DynamoDB"],
+    "demoLink": "https://cloudmonitor-demo.com",
+    "codeLink": "https://github.com/satwik/cloud-monitor"
+  },
+  {
+    "title": "AI Study Assistant",
+    "description": "An intelligent study companion using machine learning to create personalized study plans and track learning progress.",
+    "image": "https://via.placeholder.com/400x200/232f3e/ff9900?text=AI+Study",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "technologies": ["Python", "TensorFlow", "FastAPI", "React", "MongoDB"],
+    "demoLink": "https://ai-study-demo.com",
+    "codeLink": "https://github.com/satwik/ai-study-assistant"
+  }
+]

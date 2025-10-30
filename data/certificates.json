@@ -1,0 +1,30 @@
+[
+  {
+    "title": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "date": "June 2024",
+    "image": "https://via.placeholder.com/100x100/ff9900/ffffff?text=AWS",
+    "link": "https://aws.amazon.com/certification/"
+  },
+  {
+    "title": "Google Cloud Associate Engineer",
+    "issuer": "Google Cloud",
+    "date": "April 2024",
+    "image": "https://via.placeholder.com/100x100/232f3e/ffffff?text=GCP",
+    "link": "https://cloud.google.com/certification/"
+  },
+  {
+    "title": "Meta Frontend Developer",
+    "issuer": "Meta (Facebook)",
+    "date": "March 2024",
+    "image": "https://via.placeholder.com/100x100/ff9900/ffffff?text=META",
+    "link": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+  },
+  {
+    "title": "MongoDB Developer Certification",
+    "issuer": "MongoDB University",
+    "date": "February 2024",
+    "image": "https://via.placeholder.com/100x100/232f3e/ffffff?text=MONGO",
+    "link": "https://university.mongodb.com/"
+  }
+]
